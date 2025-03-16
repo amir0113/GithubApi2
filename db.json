@@ -3,22 +3,33 @@
     {
       "id": "1",
       "text": "شگفت انگیز ها",
-      "children": []
+      "img":"https://www.svgrepo.com/show/461122/discount.svg"
+  
     },
     {
       "id": "2",
       "text": "سوپرمارکت",
-      "children": []
+      "img":"https://www.svgrepo.com/show/477474/shopping-cart-17.svg"
     },
     {
       "id": "3",
       "text": "طلای دیجیتال",
-      "children": []
+      "img":"https://www.svgrepo.com/show/291300/gold-ingot-ingot.svg"
+    },
+    {
+      "id": "4",
+      "text": "پرفروش ترین ها",
+      "img":"https://www.svgrepo.com/show/524553/fire-minimalistic.svg"
+    },
+    {
+      "id": "5",
+      "text": "خرید کالای کارکرده",
+      "img":"https://www.svgrepo.com/show/512632/phone-225.svg"
     },
     {
       "id": "4",
       "text": "سوالی داریذ؟",
-      "children": []
+      "img":""
     }
    
   ]
